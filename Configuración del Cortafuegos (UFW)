@@ -1,13 +1,3 @@
-# Permitir SSH de manera segura
-sudo ufw allow 22/tcp
-
-# Activar el cortafuegos
-sudo ufw enable
-
-# Verificar el estado
-sudo ufw status verbose
----
-
 ### Archivo 2: `manual-redes-pyme.md`
 *(Este manual valida tu experiencia en Consultoría, Redes Alámbricas y Wi-Fi)*
 
