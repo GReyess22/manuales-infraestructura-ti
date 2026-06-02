@@ -1,4 +1,3 @@
-### Archivo 2: `manual-redes-pyme.md`
 *(Este manual valida tu experiencia en Consultoría, Redes Alámbricas y Wi-Fi)*
 
 ```markdown
