@@ -1,0 +1,8 @@
+# Permitir SSH de manera segura
+sudo ufw allow 22/tcp
+
+# Activar el cortafuegos
+sudo ufw enable
+
+# Verificar el estado
+sudo ufw status verbose
