@@ -1,3 +1,4 @@
+### Archivo 2: `manual-redes-pyme.md`
 *(Este manual valida tu experiencia en Consultoría, Redes Alámbricas y Wi-Fi)*
 
 ```markdown
@@ -22,4 +23,4 @@ Para optimizar el tráfico de red, se recomienda la segmentación mediante másc
 | **VLAN 30: Invitados (Wi-Fi)**| `192.168.30.X` | Dispositivos móviles de visitantes (Aislados) |
 
 ## 4. Mantenimiento Preventivo
-Se deben programar auditorías semestrales para medir la atenuación de la señal inalámbrica y verificar el estado físico del cableado
+Se deben programar auditorías semestrales para medir la atenuación de la señal inalámbrica
