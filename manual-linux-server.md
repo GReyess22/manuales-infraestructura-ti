@@ -22,5 +22,3 @@ sudo ufw enable
 
 # Verificar el estado
 sudo ufw status verbose
-
-
