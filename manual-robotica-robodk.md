@@ -1,7 +1,3 @@
-*(Es vital incluir el `.md` al final para que GitHub lo muestre como una página web limpia y no como código plano).*
-4. Copia el siguiente bloque de texto y pégalo en el editor grande de GitHub:
-
-```markdown
 # 🦾 Manual: Introducción a la Simulación de Robótica Industrial con RoboDK
 
 ## 1. Objetivo del Manual
